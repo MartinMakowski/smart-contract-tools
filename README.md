@@ -6,7 +6,7 @@ Open source tooling to develop Smart Contracts using the
 
 The tools consist of a set of plugins to the Eclipse IDE that provide
 support for developing Smart Contracts for the
-[Ethereum](https://www.ethereum.org/) Blockchain.
+[Ethereum Classic](http://www.ethereumclassic.org/) Blockchain.
 
 The plugins include a Wizard for creating Smart Contract projects, as
 well as a full featured editor for
@@ -23,6 +23,6 @@ Primary Technologies
 
 -Solidity https://ethereum.github.io/solidity/
 
--Ethereum https://www.ethereum.org/
+-Ethereum Classic http://www.ethereumclassic.org/
 
 
